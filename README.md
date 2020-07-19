@@ -1,2 +1,2 @@
 # TigDog-Project
-<img src="image/TinDog.png" >
+<img src="images/TinDog.png" >
